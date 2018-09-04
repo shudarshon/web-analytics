@@ -1,2 +1,5 @@
-# web-analytics
-this repository contains instructions and code for implementing SRE web analytics
+# About
+
+Up and running with web traffic analysis methodologies with
+
+- goaccess
